@@ -23,6 +23,7 @@ CmdMapper will forward incoming commands to a turnout with the same name (except
 |LT1|DT1|
 |LT2|DT2|
 |...|...|
+
 Then run the script (**Panels** - **Run Script...**).
 A control panel is created, with two buttons to enable/disable the command mapping:
 
