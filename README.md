@@ -11,6 +11,10 @@ It has been developed and tested for this setup:
 
 Running this script you can control turnouts (using accessory decoders connected to DCC++) via Loconet devices (throttles, control panels...).
 
+## Tutorial
+ - [Youtube video in English](https://youtu.be/myhkVPjDJtE)
+ - [Video Youtube in Italiano](https://youtu.be/uTC7cG6ryKU) 
+
 ## Usage
 
 First create the turnouts in JMRI  **Turnouts Table**:
